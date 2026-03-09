@@ -1,6 +1,15 @@
-# Connect Byte
 
-**Hands-on technology community exploring hardware, software, AI, augmented reality and creative tech.**
+<p align="center">
+  <img src="../assets/encontro-marco.JPG" width="100%">
+</p>
+
+<h1 align="center">Connect Byte 💜</h1>
+
+<p align="center">
+Hands-on technology community exploring hardware, software, AI, augmented reality, emerging technologies and creative tech.
+</p>
+
+---
 
 Connect Byte is a community that creates practical and collaborative technology experiences.
 
@@ -114,7 +123,7 @@ Whether you are just starting out or already exploring advanced ideas, this spac
 
 ---
 
-# Português
+# Português 🇧🇷
 
 ## O que é a Connect Byte
 
