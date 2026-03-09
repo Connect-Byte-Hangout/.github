@@ -1,3 +1,5 @@
+🇺🇸 English | 🇧🇷 [Português](#português)
+
 
 <p align="center">
   <img src="../assets/encontro-marco.JPG" width="100%">
@@ -123,7 +125,7 @@ Whether you are just starting out or already exploring advanced ideas, this spac
 
 ---
 
-# Português 🇧🇷
+# Português
 
 ## O que é a Connect Byte
 
