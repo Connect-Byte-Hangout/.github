@@ -134,9 +134,6 @@ Não é necessário conhecimento prévio, curiosidade basta.
 
 ---
 
-
----
-
 ## Explore nossos repositórios
 
 Alguns dos repositórios desta organização incluem:
