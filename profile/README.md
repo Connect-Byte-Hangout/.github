@@ -55,37 +55,6 @@ No previous experience is required, curiosity is enough.
 
 ---
 
-## What you will find here
-
-This GitHub organization brings together projects, experiments and documentation created through the Connect Byte community.
-
-Here you may find:
-
-- workshop projects
-- educational repositories
-- creative technology experiments
-- hardware and software prototypes
-- open materials for learning and inspiration
-
-These repositories are meant to be explored, remixed and expanded.
-
----
-
-## Featured areas
-
-Our projects may include topics such as:
-
-- Arduino, ESP32
-- sensors and actuators
-- embedded systems
-- web and interactive applications
-- AI integrations
-- augmented reality experiences
-- connected devices
-- creative technology and maker culture
-
----
-
 ## Explore our repositories
 
 Some repositories in this organization include:
@@ -95,26 +64,19 @@ Some repositories in this organization include:
 
 ---
 
-## Community values
+## How to participate
 
-Connect Byte is built around:
+Connect Byte hosts **monthly in-person workshops** where participants explore technology through hands-on projects.
 
-- curiosity
-- creativity
-- experimentation
-- collaboration
-- accessibility
-- community
+These events are designed for **women who want to learn, experiment and build technology together**, whether they are beginners or already experienced.
 
-We believe technology becomes more powerful when it is shared, built together and experienced in practice.
+Participation in the workshops is organized through our website.
 
----
+To see upcoming events and apply for a spot, visit:
 
-## Join the community
+https://connect-byte.org
 
-If you enjoy building things, experimenting with technology and learning in a practical way, you are welcome here.
-
-Whether you are just starting out or already exploring advanced ideas, this space exists to support learning, creation and connection.
+Spots are limited to keep the experience collaborative and hands-on, and they tend to fill up quickly.
 
 ---
 
@@ -122,6 +84,7 @@ Whether you are just starting out or already exploring advanced ideas, this spac
 
 - **Website:** [connect-byte.org](https://connect-byte.org)
 - **Instagram:** [@connectbyte](https://instagram.com/connectbyte_)
+- **Linkedin:** [Connect Byte](https://linkedin.com/company/connect-byte)
 
 ---
 
@@ -171,34 +134,6 @@ Não é necessário conhecimento prévio, curiosidade basta.
 
 ---
 
-## O que você encontra aqui
-
-Esta organização no GitHub reúne projetos, experimentos e documentações criados dentro da comunidade Connect Byte.
-
-Aqui você pode encontrar:
-
-- projetos de workshops
-- repositórios educacionais
-- experimentos de tecnologia criativa
-- protótipos com hardware e software
-- materiais abertos para aprendizado e inspiração
-
-Esses repositórios existem para serem explorados, adaptados e expandidos.
-
----
-
-## Áreas que exploramos
-
-Nossos projetos podem incluir temas como:
-
-- Arduino, ESP32
-- sensores e atuadores
-- sistemas embarcados
-- aplicações web e interativas
-- integrações com IA
-- experiências com realidade aumentada
-- dispositivos conectados
-- tecnologia criativa e cultura maker
 
 ---
 
@@ -211,26 +146,19 @@ Alguns dos repositórios desta organização incluem:
 
 ---
 
-## Valores da comunidade
+## Como participar
 
-A Connect Byte é construída a partir de:
+A Connect Byte realiza **encontros presenciais mensais**, onde exploramos tecnologia através de projetos práticos e colaborativos.
 
-- curiosidade
-- criatividade
-- experimentação
-- colaboração
-- acessibilidade
-- comunidade
+Esses encontros são pensados para **mulheres que querem aprender, experimentar e construir tecnologia juntas**, sejam iniciantes ou já tenham experiência.
 
-Acreditamos que a tecnologia se torna mais poderosa quando é compartilhada, construída em conjunto e vivida na prática.
+As inscrições para os encontros são feitas através do nosso site.
 
----
+Para ver os próximos eventos e se inscrever, acesse:
 
-## Faça parte
+https://connect-byte.org
 
-Se você gosta de construir coisas, experimentar tecnologia e aprender de forma prática, você é bem-vinda aqui.
-
-Seja para quem está começando, seja para quem já explora ideias mais avançadas, este espaço existe para apoiar aprendizado, criação e conexão.
+As vagas são limitadas para manter a experiência colaborativa e prática e são super concorridas, então fique de olho para garantir a sua!
 
 ---
 
@@ -238,3 +166,4 @@ Seja para quem está começando, seja para quem já explora ideias mais avançad
 
 - **Site:** [connect-byte.org](https://connect-byte.org)
 - **Instagram:** [@connectbyte](https://instagram.com/connectbyte_)
+- **Linkedin:** [Connect Byte](https://linkedin.com/company/connect-byte)
